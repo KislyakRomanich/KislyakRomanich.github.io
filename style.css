@@ -45,7 +45,7 @@
         background-size: cover;
         background-position: center;
         width: 30%;
-        height: auto;
+        height: 100%;
         border: white dashed 2px;
     }
     .lunch {
@@ -57,7 +57,7 @@
         background-size: cover;
         background-position: center;
         width: 30%;
-        height: auto;
+        height: 100%;
         border: white dashed 2px;
     }
     .dinner {
@@ -68,7 +68,7 @@
         display: inline-block;
         background-size: cover;
         background-position: center;
-        height: auto;
+        height: 100%;
         width: 30%;
         border: white dashed 2px;
     }
